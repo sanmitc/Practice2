@@ -9,6 +9,7 @@ def f(x):
 x = np.arange(1, 2, 0.1)
 y = f(x)
 
-plt.plot(x, y)
+x=plt.plot(x, y)
 plt.show()
+plt.savefig()
 
