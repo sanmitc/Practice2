@@ -1,4 +1,14 @@
 import numpy as np
+import matplotlib.pyplot as plt
 
-arr = np.zeros(shape=(2, 2))
-print(arr)
+
+def f(x):
+    return x ** 2
+
+
+x = np.arange(1, 2, 0.1)
+y = f(x)
+
+plt.plot(x, y)
+plt.show()
+
