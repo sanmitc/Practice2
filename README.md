@@ -8,9 +8,10 @@ Another Demo Repo
 This demo repo contains a   `readme.md` file, `demo.py` file and a png file. [^1]
 The description of the following are give.
 
-|Name|Task|
-|Readme.md| It has a short description of things.|
-|demo.py|it has a short code|
+| Name | Task |
+| --------- | -------- |
+| Readme.md | It has a short description of things. |
+| demo.py | it has a short code |
 
 you can git pull the following content by using:
 
